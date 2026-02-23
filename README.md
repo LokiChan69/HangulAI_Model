@@ -95,4 +95,3 @@ MIT License - Free for academic and commercial use
 ---
 
 > "Perfect for Korean OCR applications, educational tools, and language learning apps" - *AI Research Team*
-``` 
